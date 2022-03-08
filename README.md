@@ -16,8 +16,3 @@ python3 app.py
 ```
 
 É possível também mudar as informações de entrada do problema, pelo arquivo ``config.json`` localizado na pasta ``config``, como a quantidade de testes que deseja executar, a quantidade de peças para cada caso de teste e o estado inicial *(opcional)* caso queira.
-## Authors
-
-- [@AnaKapps](https://www.github.com/anakapps)
-- [@andrereisufjf](https://www.github.com/andrereisufjf)
-- [@felipeisraelvidal](https://www.github.com/felipeisraelvidal)
